@@ -1,0 +1,1 @@
+start cmd /k  "ios-uploader -u 422975248@qq.com -p aalr-dahe-khcf-dthp -f ./yuhuan.ipa"
